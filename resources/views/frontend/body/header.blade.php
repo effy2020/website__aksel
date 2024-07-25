@@ -19,12 +19,12 @@ $route = Route::current()->getName();
     <div class="navbar__wrap main__menu d-none d-xl-flex">
     <ul class="navigation">
 
-    <li class="{{ ($route == 'home')? 'active' : '' }}"><a href="{{ route('home') }}">Home</a></li>
+    <li class="{{ ($route == 'home')? 'active' : '' }}"><a href="{{ route('home') }}">Prestations</a></li>
 
-    <li class="{{ ($route == 'home.about')? 'active' : '' }}"><a href="{{ route('about.page') }}">About</a></li>
+    <li class="{{ ($route == 'home.about')? 'active' : '' }}"><a href="{{ route('about.page') }}">A PROPOS</a></li>
 
 
-    <li class="{{ ($route == 'contact.me') ? 'active' : '' }}"><a href="{{ route('contact.page') }}">contact me</a></li> 
+    <li class="{{ ($route == 'contact.me') ? 'active' : '' }}"><a href="{{ route('contact.page') }}">Contact</a></li> 
     </ul>
     </div>
 

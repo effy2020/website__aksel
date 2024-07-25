@@ -22,7 +22,8 @@ Home | Aksel Transfert
             <div class="col-xl-6 col-lg-6 col-md-6 mb-4">
                 <div class="services__item text-center">
                     <div class="services__thumb mb-3">
-                        <img src="{{ asset('path/to/your/image1.jpg') }}" alt="Déménagement Particuliers" class="img-fluid">
+                        <img src="{{ asset('frontend/assets/img/type/particulier.jpg') }}" alt="Déménagement Particuliers" style="width: 380px; height: 220px;" class="img-fluid">
+
                     </div>
                     <div class="services__content">
                         <h3 class="title">Déménagement Particuliers</h3>
@@ -34,7 +35,7 @@ Home | Aksel Transfert
             <div class="col-xl-6 col-lg-6 col-md-6 mb-4">
                 <div class="services__item text-center">
                     <div class="services__thumb mb-3">
-                        <img src="{{ asset('path/to/your/image2.jpg') }}" alt="Déménagement Entreprises" class="img-fluid">
+                    <img src="{{ asset('frontend/assets/img/type/entreprise.jpg') }}" alt="Déménagement Entreprise" style="width: 380px; height: 220px;" class="img-fluid">
                     </div>
                     <div class="services__content">
                         <h3 class="title">Déménagement Entreprises</h3>
