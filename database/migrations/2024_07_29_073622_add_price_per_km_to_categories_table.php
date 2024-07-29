@@ -13,13 +13,8 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('categories', function (Blueprint $table) {
-            $table->id();
-            $table->string('name',255)->nullable();
-            $table->tinyInteger('status')->default('1');
-            $table->integer('created_by')->nullable();
-            $table->integer('updated_by')->nullable();
-            $table->timestamps();
+        Schema::table('categories', function (Blueprint $table) {
+            $table->integer('price_per_km')->default(0); // Ajouter la colonne price_per_km
         });
     }
 
@@ -30,6 +25,8 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('categories');
+        Schema::table('categories', function (Blueprint $table) {
+            $table->dropColumn('price_per_km');
+        });
     }
 };

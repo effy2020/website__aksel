@@ -28,16 +28,16 @@ About | Aksel Transfert
                 <div class="col-lg-12 text-center">
                     <h2 class="about-title mb-4">À PROPOS DE NOTRE ENTREPRISE</h2>
                     <p class="mb-4">
-                        La société AKSEL TRANSFERT a été créée en 2022 et s'est rapidement positionnée comme un acteur majeur dans le domaine des transports routiers de fret de proximité. Notre engagement envers l'excellence opérationnelle et la satisfaction du client a été le moteur de notre croissance continue.
+                    La société TRANS AKSEL a été créée en 2022 et s'est rapidement positionnée comme un acteur majeur dans le domaine des transports routiers de fret de proximité. Notre engagement envers l'excellence opérationnelle et la satisfaction du client a été le moteur de notre croissance continue.
                     </p>
                     <p class="mb-4">
-                        Chez AKSEL TRANSFERT, nous comprenons l'importance cruciale d'une logistique efficace pour le succès des entreprises. C'est pourquoi nous nous efforçons de fournir des solutions de transport personnalisées, adaptées aux besoins uniques de chaque client. Que ce soit pour des livraisons locales, régionales ou nationales, notre flotte moderne et notre équipe dévouée sont prêtes à relever tous les défis.
+                    Chez TRANS AKSEL, nous comprenons l'importance cruciale d'une logistique efficace pour le succès des entreprises. C'est pourquoi nous nous efforçons de fournir des solutions de transport personnalisées, adaptées aux besoins uniques de chaque client. Que ce soit pour des livraisons locales, régionales ou nationales, notre flotte moderne et notre équipe dévouée sont prêtes à relever tous les défis.
                     </p>
                     <p class="mb-4">
-                        Sous la direction éclairée de notre président, M. Younes Boumezrag, AKSEL TRANSFERT a évolué pour devenir synonyme de fiabilité, d'efficacité et d'intégrité dans le secteur du transport. Notre engagement envers l'innovation constante et la formation continue de notre personnel garantit que nous restons à la pointe de l'industrie.
+                    Sous la direction éclairée de notre gérant, M. Rabah Mameri, TRANS AKSEL est synonyme de fiabilité, d'efficacité et d'intégrité dans le secteur du transport. Notre engagement envers l'innovation constante et la formation continue de notre personnel garantit que nous restons à la pointe de l'industrie.
                     </p>
                     <p class="mb-4">
-                        Nous sommes fiers de notre équipe professionnelle et dévouée qui travaille sans relâche pour assurer la réussite de chaque mission qui nous est confiée. Chez AKSEL TRANSFERT, nous considérons nos clients comme des partenaires, et chaque livraison comme une promesse de qualité et de service exceptionnel.
+                    Nous sommes fiers de notre équipe professionnelle et dévouée qui travaille sans relâche pour assurer la réussite de chaque mission qui nous est confiée. Chez TRANS AKSEL, nous considérons nos clients comme des partenaires, et chaque livraison comme une promesse de qualité et de service exceptionnel.
                     </p>
                     
                     <!-- Nouvelle Section -->

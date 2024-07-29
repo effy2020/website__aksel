@@ -96,7 +96,7 @@
         </li>
 
 
-         <!-- <li>
+         <li>
             <a href="javascript: void(0);" class="has-arrow waves-effect">
                 <i class="ri-delete-back-fill"></i>
                 <span>Manage Units</span>
@@ -105,7 +105,7 @@
                 <li><a href="{{ route('unit.all') }}">All Unit</a></li>
                
             </ul>
-        </li> -->
+        </li> 
 
          <li>
             <a href="javascript: void(0);" class="has-arrow waves-effect">
@@ -122,19 +122,19 @@
           <li>
             <a href="javascript: void(0);" class="has-arrow waves-effect">
                 <i class="ri-reddit-fill"></i>
-                <span>Manage Flotte</span>
+                <span>Manage Products</span>
             </a>
             <ul class="sub-menu" aria-expanded="false">
-                <li><a href="{{ route('product.all') }}">All Flotte</a></li>
+                <li><a href="{{ route('product.all') }}">All Products</a></li>
                
             </ul>
         </li>
 
 
-          <!-- <li>
+           <li>
             <a href="javascript: void(0);" class="has-arrow waves-effect">
                 <i class="ri-oil-fill"></i>
-                <span>Manage Purchase</span>
+                <span>Manage Flotte</span>
             </a>
             <ul class="sub-menu" aria-expanded="false">
                 <li><a href="{{ route('purchase.all') }}">All Purchase</a></li>
@@ -142,7 +142,7 @@
                 <li><a href="{{ route('daily.purchase.report') }}">Daily Purchase Report</a></li>
                
             </ul>
-        </li> -->
+        </li> 
 
 
           <li>
